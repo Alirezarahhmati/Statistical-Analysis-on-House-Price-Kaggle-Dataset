@@ -1,12 +1,13 @@
-﻿House Prices
+# ﻿House Prices
 
-Course : Data Science Name : Alireza Rahmati Student Id : 400222038
+Course : Data Science 
+Name : Alireza Rahmati
 
-Introduction :
+## Introduction :
 
 The introduction provides an overview of the report on the "House Prices: Advanced Regression Techniques" dataset from Kaggle. It introduces the dataset, the Kaggle competition, and the significance of accurately predicting house prices. The report aims to develop a predictive model for house prices and highlights the importance of this endeavor for homebuyers, sellers, financial institutions, and policymakers. The introduction sets the stage for the subsequent sections, where data exploration, handling missing values, data visualization, and statistical tests will be conducted to gain insights into the dataset. The report's ultimate goal is to create an accurate predictive model and contribute to a deeper understanding of the factors influencing real estate values.
 
-Data Preprocessing:
+## Data Preprocessing:
 
 Initially, we conducted an exploratory analysis to gain a comprehensive understanding of the dataset and identify the pertinent variables that would serve as the foundation for our subsequent analysis.
 
@@ -16,7 +17,7 @@ We systematically examined the dataset's columns and cross-referenced them with 
 
 Subsequently, we conducted a comprehensive evaluation for missing data within the dataset. Notably, the "LotFrontage" column was found to contain some missing values. To address this gap, we opted to impute the missing values by replacing them with the mean value of the column.
 
-Data Visualization :
+## Data Visualization :
 
 Our target variable of interest is "Sales." To gain insights into its relationship with other features, we conducted a correlation analysis. This analysis aimed to identify how each feature in the dataset correlates with the "Sales" variable, providing valuable insights into potential predictors of property sale prices.
 
